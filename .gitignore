@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+.DS_Store
+outputs/*.csv
+outputs/*.json
+outputs/*.html
+!outputs/.gitkeep
+data/gtfs_frequency.csv
+data/wsdot_counts.csv
+data/events.csv
